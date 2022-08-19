@@ -1,7 +1,6 @@
 this file creates a fancy table from added rows.
 for example.cs code results in this table.
 
-```
 ╔════════╦═════════╦════╗
 ║jake    ║carlson  ║20  ║
 ╠════════╬═════════╬════╣
@@ -10,4 +9,4 @@ for example.cs code results in this table.
 ║Harry   ║Potter   ║2   ║
 ╠════════╬═════════╬════╣
 ║Bread   ║Toast    ║1240║
-╚════════╩═════════╩════╝```
+╚════════╩═════════╩════╝
